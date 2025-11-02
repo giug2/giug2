@@ -38,11 +38,5 @@ Hi! I'm Giulia Gaglione, a Master's student in Computer Engineering at Roma Tre 
 ### Server Web
 ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=giug2&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=giug2&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giug2&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=giug2&icon=0&color=0)](https://visitcount.itsvg.in)
