@@ -37,6 +37,3 @@ Hi! I'm Giulia Gaglione, a Master's student in Computer Engineering at Roma Tre 
 
 ### Server Web
 ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=giug2&icon=0&color=0)](https://visitcount.itsvg.in)
