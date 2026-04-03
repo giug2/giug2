@@ -1,12 +1,23 @@
 # 🤖 About Me:
-Hi! I'm Giulia Gaglione, a Master's student in Computer Engineering at Roma Tre University, focusing on Algorithms, Big Data, and Machine Learning.  
+Hi! I'm **Giulia Gaglione**, a Master’s Degree graduate in **Computer Engineering** from Roma Tre University. 
 
+Currently, I work as a Consultant at a **leading international IT global systems integrator**, where I specialize in **Data Management and Datamart design**. My daily focus is on architecting efficient data flows and optimizing complex data infrastructures for enterprise-scale environments.
+
+My technical background is rooted in Algorithms, Big Data, and Machine Learning, with a strong passion for leveraging Generative AI to streamline database engineering.
+
+## 🎓 Academic Research & Thesis:
+
+### 🔬 Master’s Thesis: LLMs in the Database Lifecycle
+Explored the transformative impact of Large Language Models on database engineering. I designed and implemented an automated **workflow that generates DDL (Data Definition Language) starting from natural language requirements**, optimizing the transition from conceptual design to physical implementation using state-of-the-art LLMs.
+
+### 📜 Bachelor’s Thesis: DOM Performance Optimization
+Focused on front-end performance engineering. I developed a solution using **React** to optimize the rendering and manipulation of complex web pages featuring a high density of DOM nodes, significantly reducing latency and improving user interaction in node-heavy environments.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giulia.ggln) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-gaglione-9bb926234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giulia.gaglione02@gmail.com) 
 
 # 💻 Tech Stack:
-### Linguaggi
+### Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -17,7 +28,7 @@ Hi! I'm Giulia Gaglione, a Master's student in Computer Engineering at Roma Tre 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Framework e librerie
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%2366BB6A.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%2334B97F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
