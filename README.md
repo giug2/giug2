@@ -13,8 +13,8 @@ Explored the transformative impact of Large Language Models on database engineer
 ### 📜 Bachelor’s Thesis: DOM Performance Optimization
 Focused on front-end performance engineering. I developed a solution using **React** to optimize the rendering and manipulation of complex web pages featuring a high density of DOM nodes, significantly reducing latency and improving user interaction in node-heavy environments.
 
-## 🏆 Certifications:
-![Oracle APEX Certified](https://img.shields.io/badge/Oracle_APEX-Certified-success?style=flat-square&logo=oracle)
+## 🏆 Certifications
+[![Oracle APEX Certified](https://img.shields.io/badge/Oracle_APEX-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7F00BDC0724F7BD135B6CC236FAF2FBA3C07A73E2591C446CDC0B28F4E457A01)
 
 ## 💻 Tech Stack:
 ### Languages
